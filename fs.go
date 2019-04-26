@@ -16,7 +16,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/klauspost/compress/gzip"
+	"compress/gzip"
 	"github.com/valyala/bytebufferpool"
 )
 
